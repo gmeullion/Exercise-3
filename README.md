@@ -1,4 +1,4 @@
-CATS
+<h1>CATS</h1>
 <!DOCTYPE html>
 <html>
   <meta charaset = "utf-8">
@@ -16,10 +16,10 @@ CATS
 
 <h2>Cool House Cats</h2>
  <img src="flynn.jpg" alt="Flynn the Cat">
- <p><strong>Flynn:</strong> Happy kitty, sleepy kitty</p>
+ <p><strong></i>Flynn:</strong> Happy kitty, sleepy kitty</i></p>
   
 <img src="quorra.jpg" alt="Quorra the Cat">
- <p><strong><i>Quorra:</i></strong> Mii-ow Fit.</p>
+ <p><strong><i>Quorra:</strong> Mii-ow Fit.</i></p>
   
 <table>
 <h2>Cat Shopping List</h2>
