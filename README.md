@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <meta charaset = "utf-8">
-  <title>Cats</title>
+  <!--<title>Cats</title>-->
 </head>
 <body>
   <p>Cats are the spirit animal of the Internet.<p>
