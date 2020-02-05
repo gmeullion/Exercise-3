@@ -1,4 +1,4 @@
-# Exercise-3
+CATS
 <!DOCTYPE html>
 <html>
   <meta charaset = "utf-8">
@@ -6,7 +6,7 @@
 </head>
 <body>
   <p>Cats are the spirit animal of the Internet.<p>
-<h1>Famous Cats</h1>
+<h2>Famous Cats</h2>
   
 <ul>
   <li>Felix</li>
@@ -19,7 +19,7 @@
  <p><strong>Flynn:</strong> Happy kitty, sleepy kitty</p>
   
 <img src="quorra.jpg" alt="Quorra the Cat">
- <p><strong>Quorra:</strong> Mii-ow Fit.</p>
+ <p><strong><i>Quorra:</i></strong> Mii-ow Fit.</p>
   
 <table>
 <h2>Cat Shopping List</h2>
