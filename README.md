@@ -17,8 +17,11 @@
 <h2>Cool House Cats<h2>
   
   
-  
+<table>
 <tr>
-  <td>Raw Tuna</td>
-  <td>Cat Nip, Organic</td>
+  <th>Raw Tuna</th>
+  <th>Cat Nip, Organic</th>
 </tr>
+<tr>
+<td>$5</td>
+<td>$3</td>
