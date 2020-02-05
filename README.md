@@ -14,7 +14,7 @@
   <li>Grumpy Cat</li>
 </ul>
 
-<h2>Cool House Cats<h2>
+<h2>Cool House Cats</h2>
  <img src=
  <p><strong>Flynn:</strong> Happy kitty, sleepy kitty</p>
   
