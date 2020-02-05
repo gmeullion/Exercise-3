@@ -16,7 +16,7 @@
 
 <h2>Cool House Cats</h2>
  <img src="flynn.jpg" alt="Flynn the Cat">
- <p><strong></i>Flynn:</strong> Happy kitty, sleepy kitty</i></p>
+ <p><strong><i>Flynn:</strong> Happy kitty, sleepy kitty</i></p>
   
 <img src="quorra.jpg" alt="Quorra the Cat">
  <p><strong><i>Quorra:</strong> Mii-ow Fit.</i></p>
