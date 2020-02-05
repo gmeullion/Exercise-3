@@ -21,7 +21,10 @@
 <img src=
  <p><strong>Quorra:</strong>Mii-ow Fit. Cat</p>
   
+
+
 <table>
+<h2>Shopping List</h2>
 <tr>
   <th>Raw Tuna</th>
   <th>Cat Nip, Organic</th>
