@@ -15,10 +15,11 @@
 </ul>
 
 <h2>Cool House Cats<h2>
- <img
+ <img src=
  <p><strong>Flynn:</strong> Happy kitty, sleepy kitty</p>
   
-  <p><strong>Quorra:</strong>Mii-ow Fit. Cat</p>
+<img src=
+ <p><strong>Quorra:</strong>Mii-ow Fit. Cat</p>
   
 <table>
 <tr>
