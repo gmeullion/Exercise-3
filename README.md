@@ -3,7 +3,7 @@
   <meta charaset = "utf-8">
   <!--<title>Cats</title>-->
 </head>
-<title><h1>Cats!</h1></title>
+<!--<title>--><h1>Cats!</h1><!--</title>-->
 <body>
   <p>Cats are the spirit animal of the Internet.<p>
 <h2>Famous Cats</h2>
