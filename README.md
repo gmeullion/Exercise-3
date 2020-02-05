@@ -21,8 +21,6 @@
 <img src="quorra.jpg" alt="Quorra the Cat">
  <p><strong>Quorra:</strong>Mii-ow Fit. Cat</p>
   
-
-
 <table>
 <h2>Shopping List</h2>
 <tr>
