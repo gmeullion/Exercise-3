@@ -19,10 +19,10 @@
  <p><strong>Flynn:</strong> Happy kitty, sleepy kitty</p>
   
 <img src="quorra.jpg" alt="Quorra the Cat">
- <p><strong>Quorra:</strong>Mii-ow Fit. Cat</p>
+ <p><strong>Quorra:</strong> Mii-ow Fit.</p>
   
 <table>
-<h2>Shopping List</h2>
+<h2>Cat Shopping List</h2>
 <tr>
   <th>Raw Tuna</th>
   <th>Cat Nip, Organic</th>
